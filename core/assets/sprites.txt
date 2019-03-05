@@ -1,0 +1,187 @@
+sprites.png
+size: 124, 597
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knight iso char_idle
+  rotate: false
+  xy: 49, 299
+  size: 32, 82
+  orig: 84, 84
+  offset: 25, 1
+  index: 0
+knight iso char_idle
+  rotate: false
+  xy: 49, 299
+  size: 32, 82
+  orig: 84, 84
+  offset: 25, 1
+  index: 1
+knight iso char_idle
+  rotate: false
+  xy: 1, 451
+  size: 36, 83
+  orig: 84, 84
+  offset: 23, 1
+  index: 2
+knight iso char_idle
+  rotate: false
+  xy: 1, 451
+  size: 36, 83
+  orig: 84, 84
+  offset: 23, 1
+  index: 3
+knight iso char_run down
+  rotate: false
+  xy: 49, 383
+  size: 36, 70
+  orig: 84, 84
+  offset: 25, 1
+  index: 0
+knight iso char_run down
+  rotate: true
+  xy: 55, 1
+  size: 38, 68
+  orig: 84, 84
+  offset: 23, 1
+  index: 1
+knight iso char_run down
+  rotate: false
+  xy: 39, 455
+  size: 36, 70
+  orig: 84, 84
+  offset: 25, 1
+  index: 2
+knight iso char_run down
+  rotate: true
+  xy: 55, 81
+  size: 36, 68
+  orig: 84, 84
+  offset: 25, 1
+  index: 3
+knight iso char_run down
+  rotate: false
+  xy: 87, 307
+  size: 36, 70
+  orig: 84, 84
+  offset: 25, 1
+  index: 4
+knight iso char_run left
+  rotate: false
+  xy: 101, 157
+  size: 22, 73
+  orig: 84, 84
+  offset: 29, 0
+  index: 0
+knight iso char_run left
+  rotate: false
+  xy: 1, 147
+  size: 48, 74
+  orig: 84, 84
+  offset: 19, 1
+  index: 1
+knight iso char_run left
+  rotate: false
+  xy: 51, 157
+  size: 48, 69
+  orig: 84, 84
+  offset: 17, 0
+  index: 2
+knight iso char_run left
+  rotate: false
+  xy: 101, 232
+  size: 22, 73
+  orig: 84, 84
+  offset: 29, 0
+  index: 3
+knight iso char_run left
+  rotate: false
+  xy: 1, 299
+  size: 46, 74
+  orig: 84, 84
+  offset: 21, 1
+  index: 4
+knight iso char_run left
+  rotate: false
+  xy: 1, 1
+  size: 52, 71
+  orig: 84, 84
+  offset: 15, 0
+  index: 5
+knight iso char_run right
+  rotate: true
+  xy: 1, 574
+  size: 22, 73
+  orig: 84, 84
+  offset: 33, 0
+  index: 0
+knight iso char_run right
+  rotate: false
+  xy: 1, 223
+  size: 48, 74
+  orig: 84, 84
+  offset: 17, 1
+  index: 1
+knight iso char_run right
+  rotate: false
+  xy: 51, 228
+  size: 48, 69
+  orig: 84, 84
+  offset: 19, 0
+  index: 2
+knight iso char_run right
+  rotate: false
+  xy: 77, 523
+  size: 22, 73
+  orig: 84, 84
+  offset: 33, 0
+  index: 3
+knight iso char_run right
+  rotate: false
+  xy: 1, 375
+  size: 46, 74
+  orig: 84, 84
+  offset: 17, 1
+  index: 4
+knight iso char_run right
+  rotate: false
+  xy: 1, 74
+  size: 52, 71
+  orig: 84, 84
+  offset: 17, 0
+  index: 5
+knight iso char_run up
+  rotate: false
+  xy: 87, 379
+  size: 36, 70
+  orig: 84, 84
+  offset: 25, 1
+  index: 0
+knight iso char_run up
+  rotate: true
+  xy: 55, 41
+  size: 38, 68
+  orig: 84, 84
+  offset: 23, 1
+  index: 1
+knight iso char_run up
+  rotate: false
+  xy: 87, 451
+  size: 36, 70
+  orig: 84, 84
+  offset: 25, 1
+  index: 2
+knight iso char_run up
+  rotate: true
+  xy: 55, 119
+  size: 36, 68
+  orig: 84, 84
+  offset: 25, 1
+  index: 3
+knight iso char_run up
+  rotate: true
+  xy: 1, 536
+  size: 36, 70
+  orig: 84, 84
+  offset: 25, 1
+  index: 4
